@@ -44,7 +44,7 @@ experience:
     company_url: ''
     location: 'Lisbon'
     date_start: '2017-11-01'
-    date_end: '2018'
+    date_end: '2018-08-31'
     description:
 
   - title: 'Master Student'
@@ -52,7 +52,7 @@ experience:
     company_url: ''
     location: Lisbon
     date_start: '2012-09-01'
-    date_end: '2012-10-01'
+    date_end: '2012-10-31'
     description: 'MSc in Pharmaceutical Sciences'
 
 ---
