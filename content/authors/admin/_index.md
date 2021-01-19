@@ -2,8 +2,7 @@
 title: Sandra Godinho Silva
 role: PhD student
 avatar_filename: 41348520_2084470988231833_6194518755633004544_o.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Training bioinformatician with a special interest in (meta)genomics.
 interests:
   - Genomics
   - Secondary metabolites
