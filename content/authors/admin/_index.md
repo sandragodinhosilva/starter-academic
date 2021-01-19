@@ -38,6 +38,8 @@ superuser: true
 highlight_name: false
 ---
 
-Sandra Godinho Silva is a researcher and doctoral student at the Institute for Bioengineering and Biosciences. Sandra has also a master degree in Pharmaceutical Sciences and experience in community pharmacy. Nevertheless, what she really considers herself to be is a bioinformatician. During her doctorate, she started by working in experimental microbiology but quickly realized that was far more enthusiastic about advanced data analysis. So, Sandra decided to enter an intense journey to obtain competences on programming, statistics and mathematics so that she could go deeper into the world of biological data. The lack of experience wouldn’t stop her. She is now working in the application of machine learning algorithms to solve long unknown biological questions. By combining notions of microbiology and genomics with bioinformatic tools, she explores the secondary metabolism of microorganisms in the hope to find new molecules with potential therapeutic activity.
+My name is Sandra and I’m a PhD at a doctoral program in biotechnology and biosciences. I'm also a certified pharmacist with experience in community pharmacy and medical devices. Nevertheless, what I really consider myself to be is a bioinformatician.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am now working in the application of machine learning algorithms to solve long unknown biological questions. By combining notions of microbiology and genomics with bioinformatic tools, I aim to explore the secondary metabolism of microorganisms and to find molecules with potential therapeutic activity.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
