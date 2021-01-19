@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://coursera.org/share/8efa94dad419a5fe62a25da99df737fa
   date_end: ""
-  date_start: ""
+  date_start: "2019-11-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
