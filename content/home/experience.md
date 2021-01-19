@@ -26,7 +26,7 @@ experience:
     company: 'iBB'
     company_url: ''
     location: 'Lisbon'
-    date_start: '2018-09'
+    date_start: '2018-09-01'
     date_end: ''
     description: 'MicroEcoEvo research group of the BSRG - iBB, under the supervision of Prof. Rodrigo Costa and Dr. Tina Keller-Costa.'
         
@@ -43,7 +43,7 @@ experience:
     company: 'Pharmacy'
     company_url: ''
     location: 'Lisbon'
-    date_start: '2017'
+    date_start: '2017-11-01'
     date_end: '2018'
     description:
 
@@ -51,8 +51,8 @@ experience:
     company: 'Faculdade de Farmácia'
     company_url: ''
     location: Lisbon
-    date_start: '2017'
-    date_end: '2012'
+    date_start: '2012-09-01'
+    date_end: '2012-10-01'
     description: 'MSc in Pharmaceutical Sciences'
 
 ---
