@@ -24,6 +24,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: # 90%
+  icon: fa-git
+  icon_pack: fab
+  name: Git  
+
 #- description: 10%
 #  icon: dna
 #  icon_pack: fa
