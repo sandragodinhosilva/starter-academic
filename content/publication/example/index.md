@@ -21,7 +21,7 @@ abstract: This study determines the natural product biosynthesis and full coding
   findings provide a timely and in‐depth perspective of an under‐explored yet
   emerging keystone taxon in the cycling of organic matter and secondary
   metabolite production in marine ecosystems.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -49,7 +49,7 @@ featured: true
 tags:
   - genomics
 projects:
-  - example
+  - PhDWork
 image:
   caption: Aquimarinas are divided by phylogeny.
   focal_point: CENTER
