@@ -21,7 +21,7 @@ abstract: This study determines the natural product biosynthesis and full coding
   findings provide a timely and in‐depth perspective of an under‐explored yet
   emerging keystone taxon in the cycling of organic matter and secondary
   metabolite production in marine ecosystems.
-slides: ""
+slides: "Silva_EM2019_Aquimarina_genomes"
 url_pdf: ""
 publication_types:
   - "2"
@@ -48,6 +48,7 @@ doi: 10.1111/1462-2920.14747
 featured: true
 tags:
   - genomics
+  - BGCs
 projects:
   - PhDWork
 image:
