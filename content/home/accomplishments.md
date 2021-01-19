@@ -31,13 +31,13 @@ item:
   organization_url: https://www.coursera.org
   title: Python Classes and Inheritance
   url: ""
-#- certificate_url: https://www.edx.org
-#  date_end: ""
-#  date_start: "2018-03-01"
-#  description: Formulated informed blockchain models, hypotheses, and use cases.
-#  organization: edX
-#  organization_url: https://www.edx.org
-#  title: Blockchain Fundamentals
-#  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.qwiklabs.com/public_profiles/6856fa5b-8f98-4972-845e-041677487531
+  date_end: ""
+  date_start: "2021-01-15"
+  description: ""
+  organization: GoogleCloud - Qwiklabs
+  organization_url: https://www.qwiklabs.com/
+  title: Create and Manage Cloud Resources
+  url: ""
 
 ---
