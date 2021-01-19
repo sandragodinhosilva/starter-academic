@@ -1,79 +1,65 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+abstract: This study determines the natural product biosynthesis and full coding
+  potential within the bacterial genus Aquimarina. Using comprehensive
+  phylogenomics and functional genomics, we reveal that phylogeny instead of
+  isolation source [host‐associated (HA) vs. free‐living (FL) habitats]
+  primarily shape the inferred metabolism of Aquimarina species. These can be
+  coherently organized into three major functional clusters, each presenting
+  distinct natural product biosynthesis profiles suggesting that evolutionary
+  trajectories strongly underpin their secondary metabolite repertoire and
+  presumed bioactivities. Aquimarina spp. are highly versatile bacteria equipped
+  to colonize HA and FL microniches, eventually displaying opportunistic
+  behaviour, owing to their shared ability to produce multiple glycoside
+  hydrolases from diverse families. We furthermore uncover previously
+  underestimated, and highly complex secondary metabolism for the genus by
+  detecting 928 biosynthetic gene clusters (BGCs) across all genomes, grouped in
+  439 BGC families, with polyketide synthases (PKSs), terpene synthases and
+  non‐ribosomal peptide synthetases (NRPSs) ranking as the most frequent BGCs
+  encoding drug‐like candidates. We demonstrate that the recently described
+  cuniculene (trans‐AT PKS) BGC is conserved among, and specific to, the here
+  delineated A. megaterium‐macrocephali‐atlantica phylogenomic clade. Our
+  findings provide a timely and in‐depth perspective of an under‐explored yet
+  emerging keystone taxon in the cycling of organic matter and secondary
+  metabolite production in marine ecosystems.
 slides: example
+url_pdf: ""
+publication_types:
+  - "2"
+authors:
+  - Sandra G Silva
+  - Jochen Blom
+  - Tina Keller‐Costa
+  - Rodrigo Costa
+author_notes: []
+publication: Environmental microbiology
+summary: "Previously underestimated, complex secondary metabolism is revealed
+  for the recently described bacterial genus Aquimarina, an emerging keystone
+  taxon mediating carbon and nitrogen cycling and host-microbe interactions
+  across multiple marine microniches. "
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Comparative genomics reveals complex natural product biosynthesis
+  capacities and carbon metabolism across host-associated and free-living
+  Aquimarina (Bacteroidetes, Flavobacteriaceae) species
+doi: 10.1111/1462-2920.14747
+featured: true
+tags:
+  - genomics
+projects:
+  - example
+image:
+  caption: Aquimarinas are divided by phylogeny.
+  focal_point: CENTER
+  preview_only: false
+  filename: figure-2.jpg
+date: 2021-01-19T18:04:47.156Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
