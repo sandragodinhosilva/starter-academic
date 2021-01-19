@@ -22,36 +22,36 @@ date_format: Oct 2018
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD student
-    company: iBB
+  - title: 'PhD student'
+    company: 'iBB'
     company_url: ''
-    location: Lisbon
+    location: 'Lisbon'
     date_start: '2018-09-01'
     date_end: ''
-    description: MicroEcoEvo research group of the BSRG - iBB, under the supervision of Prof. Rodrigo Costa and Dr. Tina Keller-Costa.
+    description: 'MicroEcoEvo research group of the BSRG - iBB, under the supervision of Prof. Rodrigo Costa and Dr. Tina Keller-Costa.'
         
-  - title: Visiting researcher
-    company: University of Bonn
+  - title: 'Visiting researcher'
+    company: 'University of Bonn'
     company_url: ''
-    location: Bonn, Germany
+    location: 'Bonn, Germany'
     date_start: '2017-02-01'
-    date_end: '2016-04-31'
-    description: Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis. Supported by the Erasmus programme.
+    date_end: '2016-04-30'
+    description: 'Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis. Supported by the Erasmus programme.'
 
-  - title: Community Pharmacist
-    company: Pharmacy
+  - title: 'Community Pharmacist'
+    company: 'Pharmacy'
     company_url: ''
-    location: Lisbon
+    location: 'Lisbon'
     date_start: '2017-11-01'
     date_end: '2018-08-31'
-    description:
+    description: ''
 
-  - title: Master Student
-    company: Faculdade de Farmácia
+  - title: 'Master Student'
+    company: 'Faculdade de Farmácia'
     company_url: ''
-    location: Lisbon
+    location: 'Lisbon'
     date_start: '2012-09-01'
-    date_end: '2012-10-31'
-    description: MSc in Pharmaceutical Sciences
+    date_end: '2012-10-30'
+    description: 'MSc in Pharmaceutical Sciences'
 
 ---
