@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Oct 2018
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD student
+    company: iBB
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Lisbon
+    date_start: '2018-09'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: MicroEcoEvo research group of the BSRG - iBB, under the supervision of Prof. Rodrigo Costa and Dr. Tina Keller-Costa.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Visiting researcher
+    company: University of Bonn
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bonn, Germany
+    date_start: '2017-02-01'
+    date_end: '2016-04-31'
+    description: Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis.
+    Supported by the Erasmus programme.
+
+  - title: Community Pharmacist
+    company: Pharmacy
+    company_url: ''
+    location: Lisbon
+    date_start: '2017'
+    date_end: '2018'
+    description:
+
+  - title: Master Student
+    company: Faculdade de Farmácia
+    company_url: ''
+    location: Lisbon
+    date_start: '2017'
+    date_end: '2012'
+    description: MSc in Pharmaceutical Sciences
+
 ---
