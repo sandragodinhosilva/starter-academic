@@ -36,8 +36,7 @@ experience:
     location: Bonn, Germany
     date_start: '2017-02-01'
     date_end: '2016-04-31'
-    description: Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis.
-    Supported by the Erasmus programme.
+    description: Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis. Supported by the Erasmus programme.
 
   - title: Community Pharmacist
     company: Pharmacy
