@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: # 90%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
 - description: # 90%
@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: R
 - description: # 90%
-  icon: fa-git
+  icon: git
   icon_pack: fab
   name: Git  
 
