@@ -25,7 +25,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sandragodinhosilva/
 organizations:
+  - name: Instituto Superior Técnico (IST)
+    url: https://tecnico.ulisboa.pt/pt/
   - name: Institute for Bioengineering and Biosciences (iBB)
+    url: https://ibb.tecnico.ulisboa.pt/
 education:
   courses:
     - course: Master in Pharmaceutical Sciences
