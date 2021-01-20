@@ -1,5 +1,5 @@
 ---
-abstract: This study determines the natural product biosynthesis and full coding
+abstract: This study determines the natural product biosynthesis and full coding 
   potential within the bacterial genus Aquimarina. Using comprehensive
   phylogenomics and functional genomics, we reveal that phylogeny instead of
   isolation source [host‐associated (HA) vs. free‐living (FL) habitats]
@@ -32,18 +32,14 @@ authors:
   - Rodrigo Costa
 author_notes: []
 publication: Environmental microbiology
-summary: "Previously underestimated, complex secondary metabolism is revealed
-  for the recently described bacterial genus Aquimarina, an emerging keystone
-  taxon mediating carbon and nitrogen cycling and host-microbe interactions
-  across multiple marine microniches. "
+summary: "Previously underestimated, complex secondary metabolism is revealed for the recently described bacterial genus Aquimarina, an emerging keystone taxon mediating carbon and nitrogen cycling and host-microbe interactions across multiple marine microniches."
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Comparative genomics reveals complex natural product biosynthesis
-  capacities and carbon metabolism across host-associated and free-living
-  Aquimarina (Bacteroidetes, Flavobacteriaceae) species
+title: Comparative genomics reveals complex natural product biosynthesis capacities and carbon metabolism across host-associated and free-living
+  Aquimarina (Bacteroidetes, Flavobacteriaceae) species 
 doi: 10.1111/1462-2920.14747
 featured: true
 tags:
@@ -52,10 +48,11 @@ tags:
 projects:
   - PhDWork
 image:
+  placement: 2
   caption: Aquimarinas are divided by phylogeny.
   focal_point: CENTER
   preview_only: false
-  filename: figure-2.jpg
+  filename: featured.jpg
 date: 2021-01-19T18:04:47.156Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
