@@ -57,7 +57,7 @@ image:
   caption: Secondary metabolites.
   focal_point: CENTER
   preview_only: false
-  filename: figure_bioactivities.JPG
+  #filename: figure_bioactivities.JPG
 date: 2021-01-19T18:04:47.156Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
