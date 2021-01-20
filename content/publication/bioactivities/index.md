@@ -28,10 +28,12 @@ publication_types:
   - "2"
 authors:
   - Inês Raimundo
-  - Sandra G Silva
+  - admin
   - Rodrigo Costa
   - Tina Keller‐Costa
-author_notes: []
+author_notes: 
+  - "Equal contribution"
+  - "Equal contribution"
 publication: Marine drugs
 summary: This review inventories the natural products so-far described for
   octocoral-derived bacteria and fungi, uncovering a true chemical arsenal of
@@ -54,7 +56,8 @@ tags:
 projects:
   - PhDWork
 image:
-  caption: Secondary metabolites.
+  placement: 1
+  caption: BGCs identified in coral's bacterial symbionts.
   focal_point: CENTER
   preview_only: false
   #filename: figure_bioactivities.JPG
