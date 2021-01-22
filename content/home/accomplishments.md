@@ -31,7 +31,7 @@ item:
   organization_url: https://www.qwiklabs.com/
   title: Create and Manage Cloud Resources
   url: ""
- - certificate_url: https://coursera.org/share/8efa94dad419a5fe62a25da99df737fa
+- certificate_url: https://coursera.org/share/8efa94dad419a5fe62a25da99df737fa
   date_end: ""
   date_start: "2019-11-01"
   description: ""
