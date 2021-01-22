@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'PhD student'
-    company: 'iBB'
+    company: 'MicroEcoEvo @iBB'
     company_url: 'https://www.facebook.com/MicroEcoEvo/'
     location: 'Lisbon'
     date_start: '2018-09-01'
     date_end: ''
-    description: 'MicroEcoEvo research group of the BSRG - iBB. Supervisors: Prof. Rodrigo Costa and Dr. Tina Keller-Costa.'
+    description: 'Supervison: Prof. Rodrigo Costa and Dr. Tina Keller-Costa.'
   - title: 'Visiting researcher'
-    company: 'UFZ'
+    company: 'Microbial Data Science @UFZ'
     company_url: 'https://www.ufz.de/index.php?en=43659'
     location: 'Leipzig/Remote'
     date_start: '2020-03-01'
     date_end: '2020-12-01'
-    description: 'Microbial Data Science research group under the supervision of Dr. Ulisses Nunes da Rocha.'
+    description: 'Supervision: Dr. Ulisses Nunes da Rocha.'
         
   - title: 'Visiting researcher'
     company: 'University of Bonn'
@@ -43,7 +43,7 @@ experience:
     location: 'Bonn, Germany'
     date_start: '2017-02-01'
     date_end: '2017-04-01'
-    description: 'Research period under the supervision of Prof. Till Schaberle at the Institute of Pharmaceutical Biology, resulting in my Master Thesis. Supported by the Erasmus programme.'
+    description: 'Supervision: Prof. Till Schaberle - Institute of Pharmaceutical Biology'
 
   - title: 'Community Pharmacist'
     company: 'Pharmacy'
