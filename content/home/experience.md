@@ -24,17 +24,17 @@ date_format: Oct 2018
 experience:
   - title: 'PhD student'
     company: 'iBB'
-    company_url: ''
+    company_url: 'https://www.facebook.com/MicroEcoEvo/'
     location: 'Lisbon'
     date_start: '2018-09-01'
     date_end: ''
     description: 'MicroEcoEvo research group of the BSRG - iBB. Supervisors: Prof. Rodrigo Costa and Dr. Tina Keller-Costa.'
   - title: 'Visiting researcher'
     company: 'UFZ'
-    company_url: ''
+    company_url: 'https://www.ufz.de/index.php?en=43659'
     location: 'Leipzig/Remote'
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2020-12-01'
     description: 'Microbial Data Science research group under the supervision of Dr. Ulisses Nunes da Rocha.'
         
   - title: 'Visiting researcher'
@@ -50,7 +50,7 @@ experience:
     company_url: ''
     location: 'Lisbon'
     date_start: '2017-11-01'
-    date_end: '2018-08-31'
+    date_end: '2018-31-08'
     description: ''
 
   - title: 'Master Student'
@@ -58,7 +58,7 @@ experience:
     company_url: ''
     location: 'Lisbon'
     date_start: '2012-09-01'
-    date_end: '2012-10-30'
+    date_end: '2012-30-10'
     description: 'MSc in Pharmaceutical Sciences'
 
 ---
