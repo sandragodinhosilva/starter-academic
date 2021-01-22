@@ -39,7 +39,7 @@ experience:
         
   - title: 'Visiting researcher'
     company: 'University of Bonn'
-    company_url: ''
+    company_url: 'https://www.uni-bonn.de/'
     location: 'Bonn, Germany'
     date_start: '2017-02-01'
     date_end: '2017-04-01'
@@ -55,7 +55,7 @@ experience:
 
   - title: 'Master Student'
     company: 'Faculdade de Farmácia'
-    company_url: ''
+    company_url: 'https://www.ff.ulisboa.pt/'
     location: 'Lisbon'
     date_start: '2012-09-01'
     date_end: '2017-10-01'
