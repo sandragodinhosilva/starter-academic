@@ -59,7 +59,7 @@ image:
   placement: 1
   caption: BGCs identified in coral's bacterial symbionts.
   focal_point: SMART
-  preview_only: true
+  preview_only: false
   #filename: figure_bioactivities.JPG
 date: 2021-01-19T18:04:47.156Z
 url_slides: ""
