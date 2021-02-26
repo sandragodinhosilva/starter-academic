@@ -10,9 +10,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="1230"
-   height="609"
-   viewBox="0 0 1230 609"
+   width="2030"
+   height="1409"
+   viewBox="0 0 2030 1409"
    sodipodi:docname="featured.svg"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
   <metadata
@@ -43,13 +43,13 @@
      id="namedview4"
      showgrid="false"
      lock-margins="true"
-     fit-margin-top="100"
-     fit-margin-left="100"
-     fit-margin-right="100"
-     fit-margin-bottom="100"
+     fit-margin-top="500"
+     fit-margin-left="500"
+     fit-margin-right="500"
+     fit-margin-bottom="500"
      inkscape:zoom="1.3242718"
-     inkscape:cx="615"
-     inkscape:cy="304.5"
+     inkscape:cx="1015"
+     inkscape:cy="704.5"
      inkscape:window-x="72"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g10"
-     transform="translate(100,100)">
+     transform="translate(500,500)">
     <image
        width="1030"
        height="409"
