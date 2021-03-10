@@ -28,7 +28,14 @@ feature:
   icon: git
   icon_pack: fab
   name: Git  
-
+#- description: # 90%
+#  icon: linux
+#  icon_pack: fa
+#  name: Linux  
+#- description: # 90%
+#  icon: git
+#  icon_pack: fab
+#  name: Git  
 #- description: 10%
 #  icon: dna
 #  icon_pack: fa
