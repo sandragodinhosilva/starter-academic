@@ -1,8 +1,7 @@
 ---
 abstract: Here, we report the draft genome sequence of Sphingorhabdus sp. strain EL138, an alphaproteobacterium that shows potential to degrade polycyclic aromatic compounds and to cope with various heavy metals and antibiotics. Moreover, the strain, isolated from the gorgonian coral Eunicella labiata, possesses several genes involved in the biosynthesis of polyphosphates, polyketides, and terpenoids.
 slides: 2018-Silva-e00142-18.pdf
-url_pdf: https://mra.asm.org/content/6/9/e00142-18.short
-publication_types:
+url_pdf: https://github.com/sandragodinhosilva/starter-academic/blob/master/content/publication/genome_announcement/2018-Silva-e00142-18.pdf
   - "2"
 authors:
   - admin
