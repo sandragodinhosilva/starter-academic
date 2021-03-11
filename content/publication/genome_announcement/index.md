@@ -1,66 +1,35 @@
 ---
-abstract: Octocorals (Cnidaria, Anthozoa Octocorallia) are magnificent
-  repositories of natural products with fascinating and unusual chemical
-  structures and bioactivities of interest to medicine and biotechnology.
-  However, mechanistic understanding of the contribution of microbial symbionts
-  to the chemical diversity of octocorals is yet to be achieved. This review
-  inventories the natural products so-far described for octocoral-derived
-  bacteria and fungi, uncovering a true chemical arsenal of terpenes, steroids,
-  alkaloids, and polyketides with antibacterial, antifungal, antiviral,
-  antifouling, anticancer, anti-inflammatory, and antimalarial activities of
-  enormous potential for blue growth. Genome mining of 15 bacterial associates
-  (spanning 12 genera) cultivated from Eunicella spp. resulted in the
-  identification of 440 putative and classifiable secondary metabolite
-  biosynthetic gene clusters (BGCs), encompassing varied terpene-, polyketide-,
-  bacteriocin-, and nonribosomal peptide-synthase BGCs. This points towards a
-  widespread yet uncharted capacity of octocoral-associated bacteria to
-  synthetize a broad range of natural products. However, to extend our knowledge
-  and foster the near-future laboratory production of bioactive compounds from
-  (cultivatable and currently uncultivatable) octocoral symbionts, optimal
-  blending between targeted metagenomics, DNA recombinant technologies, improved
-  symbiont cultivation, functional genomics, and analytical chemistry are
-  required. Such a multidisciplinary undertaking is key to achieving a
-  sustainable response to the urgent industrial demand for novel drugs and
-  enzyme varieties.
-slides: marinedrugs-16-00485
-url_pdf: https://www.mdpi.com/1660-3397/16/12/485/html
+abstract: Here, we report the draft genome sequence of Sphingorhabdus sp. strain EL138, an alphaproteobacterium that shows potential to degrade polycyclic aromatic compounds and to cope with various heavy metals and antibiotics. Moreover, the strain, isolated from the gorgonian coral Eunicella labiata, possesses several genes involved in the biosynthesis of polyphosphates, polyketides, and terpenoids.
+#slides: marinedrugs-16-00485
+url_pdf: https://mra.asm.org/content/6/9/e00142-18.short
 publication_types:
   - "2"
 authors:
-  - Inês Raimundo
   - admin
+  - Asunción Lago-Lestón
   - Rodrigo Costa
   - Tina Keller‐Costa
-author_notes: 
-  - "Equal contribution"
-  - "Equal contribution"
-publication: Marine drugs
-summary: This review inventories the natural products so-far described for
-  octocoral-derived bacteria and fungi, uncovering a true chemical arsenal of
-  terpenes, steroids, alkaloids, and polyketides with antibacterial, antifungal,
-  antiviral, antifouling, anticancer, anti-inflammatory, and antimalarial
-  activities of enormous potential for blue growth.
+publication: Genome announcements
+summary: Here, we report the draft genome sequence of Sphingorhabdus sp. strain EL138, an alphaproteobacterium that shows potential to degrade polycyclic aromatic compounds and to cope with various heavy metals and antibiotics. Moreover, the strain, isolated from the gorgonian coral Eunicella labiata, possesses several genes involved in the biosynthesis of polyphosphates, polyketides, and terpenoids.
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Bioactive secondary metabolites from octocoral-associated microbes: new
-  chances for blue growth"
-doi: 10.3390/md16120485
-featured: true
+title: "Draft genome sequence of Sphingorhabdus sp. strain EL138, a metabolically versatile Alphaproteobacterium isolated from the gorgonian coral Eunicella labiata"
+doi: 10.1128/genomeA.00142-18
+featured: false
 tags:
   - genomics
-  - BGCs
   - corals
 projects:
   - PhDWork
-image:
-  placement: 1
-  caption: BGCs identified in coral's bacterial symbionts.
-  focal_point: SMART
-  preview_only: false
-  #filename: featured.svg
+#image:
+#  placement: 1
+#  caption: BGCs identified in coral's bacterial symbionts.
+#  focal_point: SMART
+#  preview_only: false
+#  filename: featured.svg
 date: 2018-01-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
