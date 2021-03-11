@@ -48,7 +48,7 @@ url_video: ""
 title: "Bioactive secondary metabolites from octocoral-associated microbes: new
   chances for blue growth"
 doi: 10.3390/md16120485
-featured: true
+featured: false
 tags:
   - genomics
   - BGCs
