@@ -1,7 +1,7 @@
 ---
 abstract: We report three metagenome-assembled genomes (MAGs) of Planktomarina strains from coastal seawater (Portugal) to help illuminate the functions of understudied Rhodobacteraceae bacteria in marine environments. The MAGs encode proteins involved in aerobic anoxygenic photosynthesis and a versatile carbohydrate metabolism, strengthening the role of Planktomarina species in oceanic carbon cycling.
-#slides: marinedrugs-16-00485
-url_pdf: https://github.com/sandragodinhosilva/starter-academic/blob/master/content/publication/planktomarina/2020-Marques-e00127-20.full.pdf
+slides: planktomarina.pdf
+url_pdf: ""
 publication_types:
 publication_types:
   - "2"
