@@ -8,7 +8,7 @@ abstract: Here, we report the draft genome sequence of Sphingorhabdus sp. strain
   Moreover, the strain, isolated from the gorgonian coral Eunicella labiata,
   possesses several genes involved in the biosynthesis of polyphosphates,
   polyketides, and terpenoids.
-slides: 2018-Silva-e00142-18.pdf
+slides: 2018-Silva
 url_pdf: https://github.com/sandragodinhosilva/starter-academic/blob/master/content/publication/genome_announcement/2018-Silva-e00142-18.pdf
   - "2"
 publication_types:
