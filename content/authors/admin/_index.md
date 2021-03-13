@@ -30,9 +30,8 @@ organizations:
     url: https://ibb.tecnico.ulisboa.pt/
 education:
   courses:
-    - course: PhD in Biotechnology and Biosciences (on going)
-      institution: Instituo Superior Técnico
-      year: 2022
+    - course: PhD in Biotechnology & Biosciences (on going)
+      institution: Instituto Superior Técnico
     - course: Master in Pharmaceutical Sciences
       institution: Faculdade de Farmácia - Universidade de Lisboa
       year: 2012
@@ -41,6 +40,6 @@ superuser: true
 highlight_name: true
 ---
 
-My name is Sandra and I’m a PhD at a doctoral program in biotechnology and biosciences. I'm also a certified pharmacist with experience in community pharmacy and medical devices. Nevertheless, what I really consider myself to be is a bioinformatician.
+My name is Sandra and I’m a PhD candidate in a doctoral program in biotechnology and biosciences. I'm also a certified pharmacist with experience in community pharmacy and medical devices. Nevertheless, what I really consider myself to be is a bioinformatician.
 
 I am now working in the application of machine learning algorithms to solve long unknown biological questions. By combining notions of microbiology and genomics with bioinformatic tools, I aim to explore the secondary metabolism of microorganisms and to find molecules with potential therapeutic activity.
