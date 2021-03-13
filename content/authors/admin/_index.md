@@ -1,6 +1,6 @@
 ---
 title: Sandra Godinho Silva
-role: PhD student
+role: PhD candidate
 avatar_filename: avatar.jpg
 bio: Training bioinformatician with a special interest in (meta)genomics.
 interests:
@@ -30,12 +30,15 @@ organizations:
     url: https://ibb.tecnico.ulisboa.pt/
 education:
   courses:
+    - course: PhD in Biotechnology and Biosciences (on going)
+      institution: Instituo Superior Técnico
+      year: 2022
     - course: Master in Pharmaceutical Sciences
       institution: Faculdade de Farmácia - Universidade de Lisboa
       year: 2012
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 
 My name is Sandra and I’m a PhD at a doctoral program in biotechnology and biosciences. I'm also a certified pharmacist with experience in community pharmacy and medical devices. Nevertheless, what I really consider myself to be is a bioinformatician.
