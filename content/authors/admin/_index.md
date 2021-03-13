@@ -4,6 +4,7 @@ role: PhD candidate
 avatar_filename: avatar.jpg
 bio: Training bioinformatician with a special interest in (meta)genomics.
 interests:
+  - Bioinformatics
   - Genomics
   - Secondary metabolites
   - Machine learning
@@ -11,18 +12,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SandraGodSilva
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=AZYgMEEAAAAJ&hl=pt-PT
   - icon: github
     icon_pack: fab
     link: https://github.com/sandragodinhosilva
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=AZYgMEEAAAAJ&hl=pt-PT
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sandragodinhosilva/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/SandraGodSilva
 organizations:
   - name: Instituto Superior Técnico (IST)
     url: https://tecnico.ulisboa.pt/pt/
