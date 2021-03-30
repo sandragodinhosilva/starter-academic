@@ -1,5 +1,5 @@
 ---
-abstract: Abstract
+abstract: 
 Background
 In octocorals (Cnidaria Octocorallia), the functional relationship between host health and its symbiotic consortium has yet to be determined. Here, we employed comparative metagenomics to uncover the distinct functional and phylogenetic features of the microbiomes of healthy Eunicella gazella, Eunicella verrucosa, and Leptogorgia sarmentosa tissues, in contrast with the microbiomes found in seawater and sediments. We further explored how the octocoral microbiome shifts to a pathobiome state in E. gazella.
 
