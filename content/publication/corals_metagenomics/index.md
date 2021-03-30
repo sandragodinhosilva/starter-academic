@@ -45,6 +45,6 @@ url_poster: ""
 url_code: ""
 ---
 
-Check the cool video abstract produced by ResearchSquare: https://www.youtube.com/watch?v=jjuyYAluAg8&ab_channel=ResearchSquare
+Check the cool video abstract produced by ResearchSquare that sumarizes the main findings of this study: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjuyYAluAg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
