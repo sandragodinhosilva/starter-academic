@@ -1,6 +1,5 @@
 ---
-abstract: "Check the cool video abstract produced by ResearchSquare: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjuyYAluAg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+abstract: "Check the cool video abstract produced by ResearchSquare: https://www.youtube.com/watch?v=jjuyYAluAg8&ab_channel=ResearchSquare"
 slides: ""
 url_pdf: ""
 publication_types:
@@ -23,7 +22,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=jjuyYAluAg8&ab_channel=ResearchSquare"
 title: Metagenomic insights into the taxonomy, function, and dysbiosis of prokaryotic communities in octocorals
 doi: 10.1186/s40168-021-01031-y
 featured: true
