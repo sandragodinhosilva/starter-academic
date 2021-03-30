@@ -14,8 +14,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: 
+  icon_pack: 
   name: 
   url: 
 url_code: "https://github.com/sandragodinhosilva/MeLanGE"
