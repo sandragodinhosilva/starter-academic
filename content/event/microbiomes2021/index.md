@@ -1,24 +1,32 @@
 ---
 title: Teaching materials for Microbiomes course 2021
 
-event: Wowchemy Conference
-event_url: https://example.org
+#event: Microbiomes course
+#event_url: https://sandragodinhosilva.github.io/microbiomes2021/
 
 location: Instituto Superior Técnico
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Teaching materials for the 2021 Microbiomes course at IST
+abstract: "Day 1: Bioinformatic tools for Genome Annotation
+Part 1: Bioinformatics: what are the tools available?
+Part 2: Bioinformatic tools for Genome Annotation
+Hands-on 1: Annotation with the COG database
+
+Day 2: Metagenome mining of secondary metabolite biosynthetic gene clusters (SM-BGCs)
+Study case: the marine bacterial Aquimarina genus
+Hands-on 3: Metagenome mining of SM-BGCs using antiSMASH and BiG-SCAPE"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-04-24T00:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-24T00:00:00Z"
 
-authors: []
+authors: 
+- admin
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -29,13 +37,9 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://sandragodinhosilva.github.io/microbiomes2021/"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://sandragodinhosilva.github.io/microbiomes2021/pages/1_Intro.html#1"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -43,25 +47,13 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects = []
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
