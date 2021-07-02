@@ -53,7 +53,7 @@ projects:
   - PhDWork
 image:
   placement: 1
-  caption: Aquimarinas are divided by phylogeny.
+  caption: 16S rRNA phylogenetic tree versus COG-based dendogram.
   focal_point: CENTER
   preview_only: false
   filename: featured.jpg
