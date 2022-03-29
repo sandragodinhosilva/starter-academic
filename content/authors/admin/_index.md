@@ -1,7 +1,7 @@
 ---
 title: Sandra Godinho Silva
 role: PhD candidate
-avatar_filename: avatar.jpg
+avatar_filename: 20210903_174304_3.jpg
 bio: Training bioinformatician with a special interest in (meta)genomics.
 interests:
   - Bioinformatics
