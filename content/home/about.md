@@ -11,6 +11,4 @@ design:
     image: photo.png
     image_darken: ""
 ---
-My name is Sandra and I’m a PhD at a doctoral program in biotechnology and biosciences. I'm also a certified pharmacist with experience in community pharmacy and medical devices. Nevertheless, what I really consider myself to be is a bioinformatician.
-
-I am now working in the application of machine learning algorithms to solve long unknown biological questions. By combining notions of microbiology and genomics with bioinformatic tools, I aim to explore the secondary metabolism of microorganisms and to find molecules with potential therapeutic activity.
+Sandra Godinho Silva holds a Ph.D. in Biotechnology and Biosciences, with a strong foundation in bioinformatics, drug discovery, and genomics. She is currently a Statistical Programmer at IQVIA, contributing to impactful healthcare and Real-World Evidence studies. Recently, she completed a Data Science specialization and is actively exploring the transformative potential of artificial intelligence, Large Language Models (LLMs), and machine learning in healthcare, mental health, and genomics. Her work is driven by a passion for leveraging data-driven approaches to accelerate personalized medicine and improve patient outcomes.
